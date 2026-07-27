@@ -21,7 +21,7 @@
 
 > Inspired by my internship at PIH Hospital in the summer of 2025, SpotCheck was created to offer an accessible alternative for communities lacking dermatology education.
 > 
-> This initiative contributes to a broader research project exploring algorithmic bias within AI systems that serve underrepresented communities. By developing a demographic-adjusted prediction model, the device directly addresses the limitations of mainstream beauty in AI, which frequently 
+> This initiative contributes to a broader research project exploring algorithmic bias within AI systems that serve underrepresented communities. By developing a demographic-adjusted prediction model, the device directly addresses the limitations of mainstream beauty in AI, which frequently lacks deeper skintones.
 
 ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ 
 
