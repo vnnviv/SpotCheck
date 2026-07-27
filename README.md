@@ -15,7 +15,7 @@
 
 </div>
 
-﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ 
 
 ### ⋆˚✿˖° The Story Behind SpotCheck ⋆˚✿˖°
 
@@ -23,7 +23,7 @@
 > 
 > This initiative contributes to a broader research project exploring algorithmic bias within AI systems that serve underrepresented communities. By developing a demographic-adjusted prediction model, the device directly addresses the limitations of mainstream beauty in AI, which frequently 
 
-﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ 
 
 ### ᧔ෆ᧓  Features
 
@@ -37,7 +37,7 @@
 - **Questionnaire Flow**    ┈➤ 𝖬𝗎𝗅𝗍𝗂-𝗌𝗍𝖾𝗉 𝗊𝗎𝖾𝗌𝗍𝗂𝗈𝗇𝗇𝖺𝗂𝗋𝖾 𝖼𝗈𝗇𝗍𝗋𝗂𝖻𝗎𝗍𝖾𝗌 𝗍𝗈 𝗉𝖾𝗋𝗌𝗈𝗇𝖺𝗅𝗂𝗓𝖾 𝗌𝗄𝗂𝗇 𝖺𝗇𝖺𝗅𝗒𝗌𝗂𝗌 𝗈𝗎𝗍𝗉𝗎𝗍𝗌
 - **Privacy-First Architecture** ┈➤ 𝖮𝗇-𝖽𝖾𝗏𝗂𝖼𝖾 𝗂𝗇𝖿𝖾𝗋𝖾𝗇𝖼𝖾 𝗏𝗂𝖺 𝖢𝗈𝗋𝖾𝖬𝖫; 𝗇𝗈 𝗂𝗆𝖺𝗀𝖾𝗌 𝖺𝗋𝖾 𝗎𝗉𝗅𝗈𝖺𝖽𝖾𝖽 𝗍𝗈 𝖾𝗑𝗍𝖾𝗋𝗇𝖺𝗅 𝗌𝖾𝗋𝗏𝖾𝗋𝗌 
 
-﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ 
 
 ### ˚˖𓍢ִ໋❀ Tech Stack
 
@@ -50,7 +50,7 @@
 | **Backend** | Firebase Auth + Cloud Firestore |
 | **Frameworks** | PhotosUI, AVFoundation |
 
-﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ 
 ### ㅤ♡ྀི ₊ ML Model (PediaVision)
 
 The backbone of SpotCheck's analysis is **PediaVision**, a custom-trained EfficientNet-B3 image classifier.
@@ -63,7 +63,7 @@ Input Image ──► Vision Pipeline ──► EfficientNet-B3 ──► Demogr
 
 > 🔗 *Full ML training pipeline and weights ┈➤ [PediaVision Repository](link-to-pediavision-repo).*
 
-﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ 
 ###  App Structure
 
 ```text
