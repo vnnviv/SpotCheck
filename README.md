@@ -61,7 +61,7 @@ Input Image ──► Vision Pipeline ──► EfficientNet-B3 ──► Demogr
 * **Validation Split:** 2,003 samples
 * **Target Classes:** Actinic Keratoses, Basal Cell Carcinoma, Benign Keratosis, Dermatofibroma, Melanocytic Nevi, Melanoma, Vascular Lesions
 
-> 🔗 *Full ML training pipeline and weights ┈➤ [[PediaVision Repository](link-to-pediavision-repo](https://github.com/vnnviv/PediaVision)).*](https://github.com/vnnviv/PediaVision)
+> 🔗 *Full ML training pipeline and weights ┈➤ (https://github.com/vnnviv/PediaVision)
 
 ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ 
 ###  App Structure
